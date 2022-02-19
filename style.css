@@ -1,0 +1,47 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.noob {
+    color: skyblue;
+}
+
+#sed {
+    color: rgb(128, 128, 128);
+}
+
+#depro {
+    color: blue;
+}
+
+section {
+    display: flex;
+    color: white;
+}
+
+.H_width {
+    width: 50%;
+    padding: 5%;
+}
+
+.H_width img {
+    width: 80%;
+}
+
+.LinkButton {
+    text-decoration: none;
+    background-image: linear-gradient(#ff0000, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+.topside {
+    background-image: url(Images/bg1.png);
+    background-repeat: no-repeat;
+}
