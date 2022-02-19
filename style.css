@@ -22,6 +22,7 @@ h1 {
 section {
     display: flex;
     color: white;
+    margin-bottom: 50px;
 }
 
 .H_width {
@@ -35,13 +36,20 @@ section {
 
 .LinkButton {
     text-decoration: none;
-    background-image: linear-gradient(#ff0000, orange);
+    background-image: linear-gradient(gray, white);
     padding: 10px 40px;
     border-radius: 10px;
     color: white;
+    font-weight: 700;
 }
 
-.topside {
+.topPart {
     background-image: url(Images/bg1.png);
     background-repeat: no-repeat;
+}
+
+.Bottom {
+    background-image: url(Images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
