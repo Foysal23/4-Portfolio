@@ -40,7 +40,7 @@ h2 {
 
 .LinkButton {
     text-decoration: none;
-    background-image: linear-gradient(gray, white);
+    background-image: linear-gradient(#a36987, white);
     padding: 10px 40px;
     border-radius: 10px;
     color: white;
